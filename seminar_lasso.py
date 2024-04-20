@@ -89,6 +89,8 @@ denominator = 0
 weight = np.zeros(3)
 Y_subset_weight = np.zeros(T)
 X_subset_multiply_weight = np.zeros((T,3))
+
+# The constant c is used in the RMSE models, by default we set it to 1, however, it is possible to adjust it. For further research, finding an optimal c that minimizes the MSPE can be done.
 c = 0.5
 
 for i in range(3):
