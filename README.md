@@ -1,4 +1,4 @@
-Replication code for our seminar project Machine Learning on the extension of Diebold and Shin (2019)
+Replication code for our seminar project Machine Learning on the extension of Diebold and Shin (2019).
 There are three files included in this folder:
 
 H1_gdp.csv: This is the main data file, containing data from 1999 till 2016 (no data extension till 2023 unfortunately!)
