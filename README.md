@@ -15,3 +15,6 @@ If you have any questions, please do not hesitate to contact us.
 References:
 Diebold, F.X. and Shin, M., 2019. Machine learning for regularized survey forecast combination: Partially-egalitarian lasso and its derivatives. 
 Diebold Mariano test GitHub repository: https://github.com/johntwk/Diebold-Mariano-Test
+
+
+GitHub page: https://github.com/d2000lau/Seminar_ML
